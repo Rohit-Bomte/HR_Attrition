@@ -45,15 +45,23 @@ The EDA phase involved analyzing various features to understand the factors infl
 4.	Data Visualization:
 
 •	Count plot was used to visualize overall attrition distribution.
+
 •	Bar plots showed attrition across different age groups, departments, and job roles.
+
 •	A heatmap was created to visualize the correlation between different features and identify which ones are closely related to attrition.
+
 •	Monthly income distribution between employees who stayed and left was visualized using boxplots.
+
 •	Count plots were used to analyze attrition trends by marital status and gender.
+
 •	Visualizations helped highlight key patterns and high-risk groups contributing to employee turnover.
 
 Conclusion:
 
 •	The data analysis of the HR attrition dataset revealed meaningful patterns related to employee turnover. 
+
 •	Key factors such as age, department, job role, marital status, and years at the company were found to influence attrition rates.
+
 •	Correlation analysis highlighted important features like Monthly Income and Years Since Last Promotion as potential drivers of attrition.
+
 This report provides an initial exploration of the HR data and highlights the importance of identifying employee segments at risk. Further analysis and strategic planning can help HR teams improve retention and workplace satisfaction.
