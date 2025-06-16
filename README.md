@@ -52,7 +52,7 @@ The EDA phase involved analyzing various features to understand the factors infl
 •	Visualizations helped highlight key patterns and high-risk groups contributing to employee turnover.
 
 Conclusion:
-•	The data analysis of the HR attrition dataset revealed meaningful patterns related to employee turnover.
+•	The data analysis of the HR attrition dataset revealed meaningful patterns related to employee turnover. 
 •	Key factors such as age, department, job role, marital status, and years at the company were found to influence attrition rates.
 •	Correlation analysis highlighted important features like Monthly Income and Years Since Last Promotion as potential drivers of attrition.
 This report provides an initial exploration of the HR data and highlights the importance of identifying employee segments at risk. Further analysis and strategic planning can help HR teams improve retention and workplace satisfaction.
