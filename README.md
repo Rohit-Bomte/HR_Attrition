@@ -1,6 +1,6 @@
 # HR_Attrition
 
-##Introduction:
+## Introduction:
 
 This report provides a comprehensive analysis of employee attrition within the organization. The dataset includes various employee-related features such as age, job role, department, salary, job satisfaction, work-life balance, and years of service. The objective of this report is to gain insights into the factors that contribute to employee turnover, identify key patterns and trends, and provide recommendations to improve employee retention.
 This report aims to explore and analyze the dataset on HR attrition. Let’s delve into the details:
