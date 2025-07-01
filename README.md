@@ -5,7 +5,7 @@
 This report provides a comprehensive analysis of employee attrition within the organization. The dataset includes various employee-related features such as age, job role, department, salary, job satisfaction, work-life balance, and years of service. The objective of this report is to gain insights into the factors that contribute to employee turnover, identify key patterns and trends, and provide recommendations to improve employee retention.
 This report aims to explore and analyze the dataset on HR attrition. Let’s delve into the details:
 
-1.	Data Overview:
+## 1.	Data Overview:
 
 •	The dataset contains employee details such as age, department, job role, salary, job satisfaction, work-life balance, and years at the company.
 These features help identify patterns and reasons behind employee attrition.
@@ -13,7 +13,7 @@ These features help identify patterns and reasons behind employee attrition.
 •	The target variable is 'Attrition', which shows whether an employee has left the company (Yes) or is still working (No).
 This helps in analyzing which factors are most linked to employees leaving.
 
-2.	Data Preparation:
+## 2.	Data Preparation:
 To ensure accurate and meaningful analysis, several data preparation steps were carried out before exploring the dataset. These steps included:
 
 •	Data Cleaning:
@@ -25,7 +25,7 @@ To ensure accurate and meaningful analysis, several data preparation steps were 
 
 -	Filtered the dataset by selecting only the relevant columns that contribute to attrition analysis, such as age, department, job role, income, satisfaction scores, and years at the company.
 
-3.	Exploratory Data Analysis(EDA)
+## 3.	Exploratory Data Analysis(EDA)
 
 The EDA phase involved analyzing various features to understand the factors influencing employee attrition. Key steps included:
 
@@ -43,7 +43,7 @@ The EDA phase involved analyzing various features to understand the factors infl
 -	Investigated how monthly income and years since last promotion correlated with attrition.
 
 
-4.	Data Visualization:
+## 4.	Data Visualization:
 
 •	Count plot was used to visualize overall attrition distribution.
 
@@ -57,7 +57,7 @@ The EDA phase involved analyzing various features to understand the factors infl
 
 •	Visualizations helped highlight key patterns and high-risk groups contributing to employee turnover.
 
-Conclusion:
+## Conclusion:
 
 •	The data analysis of the HR attrition dataset revealed meaningful patterns related to employee turnover. 
 
