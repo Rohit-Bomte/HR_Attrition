@@ -1,68 +1,75 @@
-# HR_Attrition
+# 👩‍💼 HR Attrition Analysis
 
-## Introduction:
+This project provides an in-depth analysis of employee attrition using a comprehensive HR dataset. It aims to identify key factors driving employee turnover and provides actionable insights to help organizations improve retention strategies and enhance employee satisfaction.
 
-This report provides a comprehensive analysis of employee attrition within the organization. The dataset includes various employee-related features such as age, job role, department, salary, job satisfaction, work-life balance, and years of service. The objective of this report is to gain insights into the factors that contribute to employee turnover, identify key patterns and trends, and provide recommendations to improve employee retention.
-This report aims to explore and analyze the dataset on HR attrition. Let’s delve into the details:
+---
 
-## 1.	Data Overview:
+## 📌 Project Objective
 
-•	The dataset contains employee details such as age, department, job role, salary, job satisfaction, work-life balance, and years at the company.
-These features help identify patterns and reasons behind employee attrition.
+To explore and analyze employee attributes such as job role, salary, job satisfaction, work-life balance, and tenure, and understand how these factors influence attrition. The end goal is to assist HR teams in recognizing high-risk employee segments and reducing turnover.
 
-•	The target variable is 'Attrition', which shows whether an employee has left the company (Yes) or is still working (No).
-This helps in analyzing which factors are most linked to employees leaving.
+---
 
-## 2.	Data Preparation:
-To ensure accurate and meaningful analysis, several data preparation steps were carried out before exploring the dataset. These steps included:
+## 📊 Key Features of the Analysis
 
-•	Data Cleaning:
+- 🔍 **Attrition Trends:** Visual distribution of employees who left vs. those who stayed.
+- 🧑‍🤝‍🧑 **Demographics-Based Risk:** Age, gender, and marital status trends in attrition.
+- 🧾 **Job Role & Department Impact:** Attrition by job role, department, and tenure.
+- 💼 **Income & Promotion Trends:** Correlation between attrition and salary, last promotion.
+- 📈 **Satisfaction Scores:** Analysis of job satisfaction, work-life balance, and environmental satisfaction.
 
--	Checked for missing or null values and handled them appropriately.
--	Verified data types for each column and made necessary conversions for consistency.
+---
 
-•	Data Filtering:
+## 🧹 Data Preparation
 
--	Filtered the dataset by selecting only the relevant columns that contribute to attrition analysis, such as age, department, job role, income, satisfaction scores, and years at the company.
+- ✅ Checked and handled missing/null values.
+- ✅ Converted data types for consistency.
+- ✅ Filtered and selected relevant columns for meaningful insights.
 
-## 3.	Exploratory Data Analysis(EDA)
+---
 
-The EDA phase involved analyzing various features to understand the factors influencing employee attrition. Key steps included:
+## 🔎 Exploratory Data Analysis (EDA)
 
-•	Attrition Distribution
--	Checked the overall count of employees who left the company vs. those who stayed using value counts.
+- ✔ Attrition distribution using count plots.
+- ✔ Demographics analysis (age group, marital status, gender).
+- ✔ Job role, department, and tenure exploration.
+- ✔ Income distribution and promotion gap comparisons.
+- ✔ Correlation heatmap to identify key relationships.
 
-•	Demographic Analysis
--	Analyzed attrition patterns across different age groups, genders, and marital statuses to identify high-risk segments.
+---
 
-•	Job-Related Factors
--	Explored attrition in relation to job roles, departments, and years at company using count plots and groupby functions.
--	Evaluated how job satisfaction, work-life balance, and environment satisfaction affected employee decisions to leave.
+## 📉 Visualizations
 
-•	Income & Promotion Trends
--	Investigated how monthly income and years since last promotion correlated with attrition.
+- 📊 Count plots for attrition distribution.
+- 📊 Bar plots for department, job role, and age group analysis.
+- 📊 Boxplots for income comparisons.
+- 🌡️ Heatmap for feature correlation with attrition.
+- 📊 Visual comparison of attrition by marital status and gender.
 
+---
 
-## 4.	Data Visualization:
+## 🧠 Insights & Conclusion
 
-•	Count plot was used to visualize overall attrition distribution.
+- Age, department, job role, and years at the company are influential in attrition.
+- Monthly income and years since last promotion show strong correlation with turnover.
+- Certain demographics (e.g., single employees, younger age groups) show higher attrition risks.
 
-•	Bar plots showed attrition across different age groups, departments, and job roles.
+These insights can help organizations create targeted HR strategies to improve **employee retention**, enhance **workplace satisfaction**, and reduce **recruitment costs**.
 
-•	A heatmap was created to visualize the correlation between different features and identify which ones are closely related to attrition.
+---
 
-•	Monthly income distribution between employees who stayed and left was visualized using boxplots.
+## 🛠️ Tools Used
 
-•	Count plots were used to analyze attrition trends by marital status and gender.
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Jupyter Notebook
 
-•	Visualizations helped highlight key patterns and high-risk groups contributing to employee turnover.
+---
 
-## Conclusion:
+## 🙋‍♂️ Author
 
-•	The data analysis of the HR attrition dataset revealed meaningful patterns related to employee turnover. 
+**Rohit Bomte**  
+[LinkedIn](https://www.linkedin.com/in/rohit-bomte)
 
-•	Key factors such as age, department, job role, marital status, and years at the company were found to influence attrition rates.
+---
 
-•	Correlation analysis highlighted important features like Monthly Income and Years Since Last Promotion as potential drivers of attrition.
-
-This report provides an initial exploration of the HR data and highlights the importance of identifying employee segments at risk. Further analysis and strategic planning can help HR teams improve retention and workplace satisfaction.
+> If you found this helpful, feel free to ⭐ the repo and contribute!
